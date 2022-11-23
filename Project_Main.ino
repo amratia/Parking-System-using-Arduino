@@ -226,3 +226,4 @@ EthernetClient client = server.available();
     Serial.println("client disconnected");
   }
 }
+// edited on Github
